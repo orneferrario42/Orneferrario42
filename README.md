@@ -1,4 +1,4 @@
-¡Hola! 👋 Bienvenido a mi GitHub. Soy Ornella Ferrario, una apasionada en aprender y sueoprarme como desarrolladora web Full Stack con una especialización en Back-end. Me encanta crear soluciones útiles y atractivas con código, y en resolución de conflictos con el equipo, siempre buscando el equilibrio perfecto entre funcionalidad y la armonía grupal. 
+¡Hola! 👋 Bienvenido a mi GitHub. Soy Ornella Ferrario, una apasionada en aprender y superarme como desarrolladora web Full Stack con una especialización en Back-end. Me encanta crear soluciones útiles y atractivas con código, y en resolución de conflictos con el equipo, siempre buscando el equilibrio perfecto entre funcionalidad y la armonía grupal. 
 
 💻 Actualmente estoy trabajando con:
 
